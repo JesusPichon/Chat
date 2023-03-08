@@ -1,2 +1,2 @@
 # chat-python
-Chat cliente, servidor utilizando sockets
+Chat cliente-servidor utilizando sockets
